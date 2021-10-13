@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612318654 source:c:\users\lloyd wang\onedrive - nanyang technological university\cz1107\stacks and queues\tut\q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

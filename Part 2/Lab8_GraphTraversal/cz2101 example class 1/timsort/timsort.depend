@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629950498 source:c:\users\lloyd wang\onedrive - nanyang technological university\cz1107\part 2\lab8_graphtraversal\cz2101 example class 1\timsort\main.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+
