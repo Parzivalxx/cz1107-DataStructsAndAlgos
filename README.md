@@ -1,4 +1,4 @@
-# cz2007-DataStructsAndAlgos
+# cz1107-DataStructsAndAlgos
 
 data structures and algorithms course in NTU
 
